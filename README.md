@@ -47,7 +47,7 @@ Here’s an example of the input image and the result after applying custom conv
 
 | Input Image | Grayscale Conversion
 | :---------: | :------------------: | 
-| ![Input](download.jpeg) | ![Grayscale](Screenshot 2024-08-18 at 11.03.42 AM.jpg) 
+| ![Input](download.jpeg) | ![Grayscale](output.jpeg) 
 
 (*Add relevant images here to showcase your work*)
 
