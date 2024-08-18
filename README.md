@@ -49,8 +49,6 @@ Here’s an example of the input image and the result after applying custom conv
 | :---------: | :------------------: | 
 | ![Input](download.jpeg) | ![Grayscale](output.jpeg) 
 
-(*Add relevant images here to showcase your work*)
-
 ## 💡 Concepts Covered
 
 - Convolution operations in image processing
